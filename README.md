@@ -1,14 +1,16 @@
 # Personal Website
 
+Check out my live website: [https://personal-website-blue-six-65.vercel.app](https://personal-website-blue-six-65.vercel.app)
+
 ## Overview
 This is a personal portfolio website designed to showcase my skills, experience, projects, and contact information. Built with modern web technologies, the website features a clean design and responsive layout to ensure great user experience across various devices.
 
 ## Technologies Used
-- **HTML:** Structure of the webpage.
-- **CSS:** Styling and layout design, including responsive features.
 - **JavaScript:** Adding interactivity and dynamic functionality.
 - **Vue.js:** Framework for building user interfaces and single-page applications.
 - **Vite:** Build tool for faster development and optimized production build.
+- **HTML:** Structure of the webpage.
+- **CSS:** Styling and layout design, including responsive features.
 
 ## Features
 - **Navigation Bar:** Easy navigation across different sections of the website.
