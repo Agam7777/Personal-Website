@@ -62,7 +62,7 @@ export default {
         location: 'Seattle, WA',
         duration: 'June 2024 – August 2024',
         color: '#4361ee',
-        logoPath: '/src/assets/images/expedia_group.png',
+        logoPath: '/images/expedia_group.png',
         responsibilities: [
           'Developed a key feature to display and manage marketing feed cards, enhancing the admin tool for the marketing team by integrating Java-based services with Spring and MongoDB for seamless data retrieval and updates.',
           'Utilized Amazon S3 buckets for efficient storage and retrieval of large datasets, streamlining data management processes.',
@@ -80,7 +80,7 @@ export default {
         location: 'Seattle, WA',
         duration: 'August 2022 – August 2023',
         color: '#7209b7',
-        logoPath: '/src/assets/images/apple.png',
+        logoPath: '/images/apple.png',
         responsibilities: [
           'Diagnosed and resolved technical issues on customers\' devices by analyzing unique situations and providing effective troubleshooting solutions.',
           'Engaged with customers seeking new products, delivering comprehensive product knowledge, and assisting in choosing the ideal Apple products tailored to their needs.',
